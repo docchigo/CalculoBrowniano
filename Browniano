@@ -1,0 +1,6 @@
+#!/bin/bash
+./normalizar
+gnuplot ajusteg2.plt
+./puntoslogg1
+gnuplot ajusteg1.plt
+./resultados

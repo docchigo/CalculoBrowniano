@@ -1,0 +1,9 @@
+#!/bin/bash
+g++ -c normalizar.cpp
+g++ -o normalizar normalizar.o -lm -O3
+
+g++ -c puntoslogg1.cpp
+g++ -o puntoslogg1 puntoslogg1.o -lm -O3
+
+g++ -c resultados.cpp
+g++ -o resultados resultados.o -lm -O3
