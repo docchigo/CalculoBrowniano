@@ -41,7 +41,7 @@ Además de eso necesitaremos tener instalado gnuplot para poder usar el programa
 
 Nuevamente, este programa es más fácil de usar en Linux pues está automatizado. Pero desde Windows también lo podemos usar, solo que tendremos que ir ejecutando los programas y scripts uno a uno y en el orden correcto.
 
-NOTA: Es importante que el archivo que le pasemos al programa sea simplemente el número de canal acompañado de el número de cuentas sin nada más, es decir:
+NOTA: Es importante que el archivo que le pasemos al programa sea simplemente el número de canal acompañado del número de cuentas sin nada más, es decir:
 
 1 181072
 2 175629
