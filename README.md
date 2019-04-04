@@ -76,7 +76,7 @@ Es importante que gnuplot esté en la carpeta en la que está este fichero, o en
 
 3) Ejecutamos puntoslogg1.exe
 
-4) De la misma forma que explicamos antes (ver 2)) abrimos con gnuplot el archivo ajusteg1.plt. Es decir desde gnuplot:
+4) De la misma forma que explicamos antes (ver 2) abrimos con gnuplot el archivo ajusteg1.plt. Es decir desde gnuplot:
 
 'load "ajusteg1.plt"'
 
