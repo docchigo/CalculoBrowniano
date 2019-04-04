@@ -58,7 +58,7 @@ Aunque si se quiere se pueden ejecutar las partes de este programa una a una (in
 
 "chmod +x Browniano"
 
-Y ya podemos ejecutar el programa (que nos pedirá cierta información con la cual calculará el diámetro del coloide y el coeficiente experimental beta:
+Y ya podemos ejecutar el programa que nos pedirá cierta información con la cual calculará el diámetro del coloide y el coeficiente experimental beta:
 
 "./Browniano"
 
