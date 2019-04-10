@@ -64,6 +64,9 @@ Y ya podemos ejecutar el programa que nos pedirá cierta información con la cua
 
 # 2.2 Windows
 
+Hay dos formas de utilizar este programa en Windows, se pueden ir ejecutando uno a uno los programas (lo cual siempre funcionará) o se puede ejecutar el archivo por lotes "Browniano.bat"
+
+A) Ejecución por partes
 Usar este programa es fácil pero tenemos que tener la precaución de ir en el orden correcto para que el programa disponga de toda la información a todo momento:
 
 1) Ejecutamos normalizar.exe (haciendo doble click en él por ejemplo). El programa nos pedirá el nombre del archivo con los datos en el formato anteriormente explicado. Lo introducimos y pulsamos intro.
@@ -81,6 +84,12 @@ Es importante que gnuplot esté en la carpeta en la que está este fichero, o en
 'load "ajusteg1.plt"'
 
 5) Para obtener los resultados hay que ejecutar resultados.exe e introducir además el ángulo y la temperatura (nos los pedirá el programa). AVISO: Si hacemos doble click sobre el programa, este se cerrará antes de que podamos leer nuestros resultados. Por ello es importante ejecutar este programa desde alguna aplicación que nos pause la consola antes de cerrarla. Nuevamente, por simplicidad, se puede ejecutar desde CodeBlocks.
+
+B) Ejecución con "Browniano.bat"
+
+ADVERTENCIA: Para que este método funcione es necesario que gnuplot esté instalado en "C:\Program Files\gnuplot" (instalación por defecto). Este método, aunque está probado en un ordenador con Windows, podría dar problemas. Si algo no funciona hablad conmigo o remitiros al método A).
+
+Ejecutamos el programa "Browniano.bat" haciendo doble click en él. Introducimos los datos que nos soliciten los programas y después de eso debería mostrarnos por pantalla los resultados y quedarse parado hasta que pulsemos una tecla y se cierre.
 
 Y hasta aquí el tutorial del programa. Cualquier duda o problema no dudéis en comentarlo.
 
